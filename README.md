@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Master Thesis on Emotion-Aware Speech Synthesis for Humanoid Robots & Research at Fraunhofer IGCV<br><br>🌱 I'm currently learning VLM/LLM integration in robotics & advanced Human-Robot Interaction<br><br>👯 I'm looking to collaborate on ROS2 robotics projects, RL applications & autonomous systems<br><br>🤔 I'm looking for help with: Real-time emotional TTS deployment on humanoid robots<br><br>💬 Ask me about ROS/ROS2, ML, Computer Vision, Reinforcement Learning, Humanoid Robots<br><br>⚡ Fun fact: Won 5th Prize in NEURA Robotics Challenge 2025 🤖
+🔭 I'm currently working on: Master Thesis on Emotion-Aware Speech Synthesis for Humanoid Robots & Research at Fraunhofer IGCV<br><br>🌱 I'm currently learning VLM/LLM integration in robotics & advanced Human-Robot Interaction<br><br>👯 I'm looking to collaborate on ROS2 robotics projects, RL applications & autonomous systems<br><br>🤔 I'm looking for help with: Real-time emotional TTS deployment on humanoid robots<br><br>💬 Ask me about ROS/ROS2, AI & ML, Computer Vision, Reinforcement Learning, Humanoid Robots<br><br>⚡ Fun fact: Won 5th Prize in NEURA Robotics Challenge 2025 🤖
 
 
 ## 🌐 Socials:
